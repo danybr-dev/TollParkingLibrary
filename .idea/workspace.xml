@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f9d48f-28c1-40a6-9fb1-3cdbe4532fd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZwynaYJfe4wwkDp17UhP7hjY49" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.danybr.tollParkingLibrary.model.car" />
+      <recent name="com.danybr.tollParkingLibrary" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.danybr.tollParkingLibrary" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.danybr.tollParkingLibrary">
+    <configuration name="TollParkingTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Toll Parking Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danybr.tollParkingLibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.danybr.tollParkingLibrary" />
+      <option name="MAIN_CLASS_NAME" value="com.danybr.tollParkingLibrary.TollParkingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.danybr.tollParkingLibrary.model.Prova" />
+      <module name="Toll Parking Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danybr.tollParkingLibrary.model.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TollParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.danybr.tollParkingLibrary.TollParking" />
+      <module name="Toll Parking Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.danybr.tollParkingLibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.danybr.tollParkingLibrary" type="JUnit" factoryName="JUnit">
+      <module name="Toll Parking Library" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="com.danybr.tollParkingLibrary" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.TollParkingTest" />
+      <item itemvalue="Application.Prova" />
+      <item itemvalue="Application.TollParking" />
+      <item itemvalue="JUnit.com.danybr.tollParkingLibrary" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.TollParkingTest" />
+        <item itemvalue="Application.TollParking" />
+        <item itemvalue="Application.Prova" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f9d48f-28c1-40a6-9fb1-3cdbe4532fd7" name="Default Changelist" comment="" />
+      <created>1585764618556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585764618556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1585776918660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1585776918660" />
+    <state x="683" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586210376356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586210376356" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1586119306742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586119306742" />
+    <state x="714" y="280" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586199401099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="280" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586199401099" />
+    <state x="756" y="379" width="411" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586098750193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="411" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586098750193" />
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586098709824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586098709824" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586098588943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586098588943" />
+    <state x="718" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586212735920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586212735920" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586211592239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586211592239" />
+    <state width="1876" height="244" key="GridCell.Tab.0.bottom" timestamp="1586212779555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586212779555" />
+    <state width="1876" height="244" key="GridCell.Tab.0.center" timestamp="1586212779554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="244" key="GridCell.Tab.0.center/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586212779554" />
+    <state width="1876" height="244" key="GridCell.Tab.0.left" timestamp="1586212779554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="244" key="GridCell.Tab.0.left/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586212779554" />
+    <state width="1876" height="244" key="GridCell.Tab.0.right" timestamp="1586212779554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="244" key="GridCell.Tab.0.right/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586212779554" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1586197676048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586197676048" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1586197676047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586197676047" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1586197676047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586197676047" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1586197676047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586197676047" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586020256913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586020256913" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586190109928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586190109928" />
+    <state x="612" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586012341454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586012341454" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586199403214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586199403214" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1586016643364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586016643364" />
+    <state x="342" y="215" key="new project wizard" timestamp="1586213019239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586213019239" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1586208922197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1586208922197" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585950303773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1360.0.1360.728@0.0.1920.1040" timestamp="1585950303773" />
+  </component>
+</project>
